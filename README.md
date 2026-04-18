@@ -124,7 +124,7 @@ project-root/
 ### Step 1 — Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/sp00kyraBBit/Smart-Drone-Traffic-Analyzer.git
 cd backend
 ```
 
